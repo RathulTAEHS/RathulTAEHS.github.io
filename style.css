@@ -1,1 +1,35 @@
+body {
+background-color: tan;
+}
 
+h1 {
+color: lightblue;
+text-align: center;
+}
+
+h3 {
+color: lightblue;
+text-align: center;
+}
+
+.project1 {
+text-align: left;
+font-weight: bold;
+color: pink;
+}
+
+.project2 {
+text-align: right;
+font-weight: bold;
+color: pink;
+}
+
+.project2-1 {
+text-align: right;
+}
+
+.project3 {
+text-align: left;
+font-weight: bold;
+color: pink;
+}
